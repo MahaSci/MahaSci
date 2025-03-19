@@ -19,7 +19,7 @@ I enjoy exploring new technologies, solving problems, and creating projects.
   🔗 [**View Project**](https://github.com/MahaSci/heart-disease-data-hackathon-1)
 
 ## 🌱 Learning & Growth
-- Always expanding my skills, I'm interested in reccommender systems & NLP.
+- Always expanding my skills, I'm interested in recommender systems & NLP.
 - Exploring how gen AI can be used as a tool.
 
 ## 👯 I’m looking to collaborate on
