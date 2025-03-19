@@ -1,55 +1,31 @@
-<h1 align="center">Hi, I'm Maha! – Let’s Talk Data. 📈</h1>
+# 👋 Hi there, I'm Maha!
 
-<p align="center">
-  <img src="https://image.myanimelist.net/ui/BQM6jEZ-UJLgGUuvrNkYUOOnrjuH3cT6u_9TP_2jIH9xEaLVtDyeVxhgEV5fHfC11Nya3vhzkr5TxjaA8G_s-w" alt="Banner Image">
-</p>
+Welcome to my GitHub profile! I'm a student with a CS background, currently focusing on data analytics & AI. <br>
+I enjoy exploring new technologies, solving problems, and creating projects.
 
-<p align="center"><i>When Python, SQL, and caffeine combine ☕🐍 </i></p>
+## 🔭 What I'm working on
+- 🌊 **North East Atlantic Seafloor Litter Analysis**: This project aims to provide an analysis of the distribution and composition of marine litter in the North East Atlantic region. It identifies trends and suggests strategies to mitigate marine pollution. <br>
+  🔗 [**View Project**](https://github.com/MahaSci/NEA-Seafloor-Litter-Analysis) | 
+  🔗 [**View Dashboard**](https://public.tableau.com/app/profile/maha.hussain/viz/NorthEastAtlanticSeafloorLitterDashboard/Dashboard115)
+  
+<br>
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/Mc1yxvp8fIGuYXHJI0/giphy.gif?cid=6c09b9524aoye4fvaz37euyk9vilb7ugpk3dyecsueldt8n4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="80%">
-</p>
+- 🛒 **Online Retail Sales Analysis (Group Project)**: Exploring revenue patterns in online retail sales by analysing product-wise revenue distribution, regional differences, customer segmentation, and seasonal sales trends.  
+  🔗 [**View Project**](https://github.com/bvhadra/Online_Retail_Sales_Analysis)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━  
-📌 **About Me**  
-━━━━━━━━━━━━━━━━━━━━━━━━━━  
+<br>
 
-🎓 **Background:** Computer Science  
-📊 **Focus:** Data Analytics | Insights | Visualisation  
-📍 **Currently:** Advancing skills through a Data Analytics with AI bootcamp via Code Institute
+- ❤️ **Heart Disease Risk Analysis**: Analysing health data to understand the relationship between various risk factors (diabetes, cholesterol, BMI) and heart disease.  
+  🔗 [**View Project**](https://github.com/MahaSci/heart-disease-data-hackathon-1)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━  
-💼 **Skills & Technologies**  
-━━━━━━━━━━━━━━━━━━━━━━━━━━  
+## 🌱 Learning & Growth
+- Always expanding my skills, I'm interested in reccommender systems & NLP.
+- Exploring how gen AI can be used as a tool.
 
-✔ **Programming:** Python, SQL, Java, HTML, CSS, JavaScript  
-✔ **Data Analysis:** Pandas, NumPy, Excel  
-✔ **Visualisation:** Matplotlib, Seaborn, Tableau, Power BI  
-✔ **Databases:** MySQL  
-✔ **Other Tools:** Git, Jupyter Notebook  
+## 👯 I’m looking to collaborate on
+- Data analytics projects, particularly those with environmental or social impact.
+- Open-source contributions, particularly in AI and machine learning.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━  
-📂 **Projects & Work**  
-━━━━━━━━━━━━━━━━━━━━━━━━━━  
-
-### ❤️ Heart Disease Risk Analysis  
-📌 *Analysing health data to understand the relationship between various risk factors (diabetes, cholesterol, BMI) and heart disease.*  
-🔗 [**View Project**](https://github.com/MahaSci/heart-disease-data-hackathon-1)  
-
-### 🛒 Online Retail Sales Analysis *(Group Project)*  
-📌 *Exploring revenue patterns in online retail sales by analysing product-wise revenue distribution, regional differences, customer segmentation, and seasonal sales trends.*  
-🔗 [**View Project**](https://github.com/bvhadra/Online_Retail_Sales_Analysis)  
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━  
-> **"There is magic in graphs. The profile of a curve reveals in a flash a whole situation—  
-> the life history of an epidemic, a panic, or an era of prosperity."**  
-> — Henry D. Hubbard
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━  
-
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━  
-📬 **Let’s Connect**  
-━━━━━━━━━━━━━━━━━━━━━━━━━━  
-
-💌 Open to collaborations, discussions, and opportunities.  
+## 📫 How to reach me
+- Email: mahahussain874@gmail.com
+- LinkedIn: [mahahussain2003](https://www.linkedin.com/in/mahahussain2003/)
