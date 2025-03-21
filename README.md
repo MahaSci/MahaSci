@@ -3,7 +3,11 @@
 Welcome to my GitHub profile! I'm a student with a CS background, currently focusing on data analytics & AI. <br>
 I enjoy exploring new technologies, solving problems, and creating projects.
 
-## 🔭 What I'm working on
+## 📌 Currently working on
+- 🚗 **UK Road Accident Analysis**: This project aims to examine key factors influencing vehicle accidents, including light conditions, location, and vehicle involvement. The goal is to identify patterns and contributing factors to inform potential safety improvements. <br>
+  🔗 [**W.I.P**](https://github.com/MahaSci/UK-Road-Accident-Analysis)
+
+## 🔭 What I have worked on
 - 🌊 **North East Atlantic Seafloor Litter Analysis**: This project aims to provide an analysis of the distribution and composition of marine litter in the North East Atlantic region. It identifies trends and suggests strategies to mitigate marine pollution. <br>
   🔗 [**View Project**](https://github.com/MahaSci/NEA-Seafloor-Litter-Analysis) | 
   🔗 [**View Dashboard**](https://public.tableau.com/app/profile/maha.hussain/viz/NorthEastAtlanticSeafloorLitterDashboard/Dashboard115)
