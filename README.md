@@ -5,7 +5,7 @@ I enjoy exploring new technologies, solving problems, and creating projects.
 
 ## 📌 Currently working on
 - 🚗 **UK Road Accident Analysis**: This project aims to examine key factors influencing vehicle accidents, including light conditions, location, and vehicle involvement. The goal is to identify patterns and contributing factors to inform potential safety improvements. <br>
-  🔗 [**W.I.P**](https://github.com/MahaSci/UK-Road-Accident-Analysis)
+  🔗 [**View Project**](https://github.com/MahaSci/UK-Road-Accident-Analysis)
 
 ## 🔭 What I have worked on
 - 🌊 **North East Atlantic Seafloor Litter Analysis**: This project aims to provide an analysis of the distribution and composition of marine litter in the North East Atlantic region. It identifies trends and suggests strategies to mitigate marine pollution. <br>
