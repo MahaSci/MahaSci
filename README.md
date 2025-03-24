@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a student with a CS background, currently focu
 I enjoy exploring new technologies, solving problems, and creating projects.
 
 ## 📌 Currently working on
-- 🚗 **UK Road Accident Analysis**: This project aims to examine key factors influencing vehicle accidents, including light conditions, location, and vehicle involvement. The goal is to identify patterns and contributing factors to inform potential safety improvements. <br>
+- 🚗 **UK Road Accident Analysis (Group Project)**: This project aims to examine key factors influencing vehicle accidents, including light conditions, location, and vehicle involvement. The goal is to identify patterns and contributing factors to inform potential safety improvements. <br>
   🔗 [**View Project**](https://github.com/MahaSci/UK-Road-Accident-Analysis)
 
 ## 🔭 What I have worked on
