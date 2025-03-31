@@ -4,8 +4,7 @@ Welcome to my GitHub profile! I'm a student with a CS background, currently focu
 I enjoy exploring new technologies, solving problems, and creating projects.
 
 ## 📌 Currently working on
-- 🚗 **UK Road Accident Analysis (Group Project)**: This project aims to examine key factors influencing vehicle accidents, including light conditions, location, and vehicle involvement. The goal is to identify patterns and contributing factors to inform potential safety improvements. <br>
-  🔗 [**View Project**](https://github.com/MahaSci/UK-Road-Accident-Analysis)
+- Power BI dashboarding!
 
 ## 🔭 What I have worked on
 - 🌊 **North East Atlantic Seafloor Litter Analysis**: This project aims to provide an analysis of the distribution and composition of marine litter in the North East Atlantic region. It identifies trends and suggests strategies to mitigate marine pollution. <br>
@@ -13,6 +12,11 @@ I enjoy exploring new technologies, solving problems, and creating projects.
   🔗 [**View Dashboard**](https://public.tableau.com/app/profile/maha.hussain/viz/NorthEastAtlanticSeafloorLitterDashboard/Dashboard115)
   
 <br>
+
+- 🚗 **UK Road Accident Analysis (Group Project)**: This project aims to examine key factors influencing vehicle accidents, including light conditions, location, and vehicle involvement. The goal is to identify patterns and contributing factors to inform potential safety improvements. <br>
+  🔗 [**View Project**](https://github.com/MahaSci/UK-Road-Accident-Analysis)
+
+  <br>
 
 - 🛒 **Online Retail Sales Analysis (Group Project)**: Exploring revenue patterns in online retail sales by analysing product-wise revenue distribution, regional differences, customer segmentation, and seasonal sales trends.  
   🔗 [**View Project**](https://github.com/bvhadra/Online_Retail_Sales_Analysis)
