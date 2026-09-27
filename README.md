@@ -1,39 +1,48 @@
-# 👋 Hi there, I'm Maha!
+# Hi, I'm Maha!
 
-Welcome to my GitHub profile! I'm a student with a CS background, currently focusing on data analytics & AI. <br>
-I enjoy exploring new technologies, solving problems, and creating projects.
+I'm a Computer Science student interested in digital forensics, cybersecurity, data analysis, and technology in general.
 
-## 📌 Currently working on
-- Power BI dashboarding!
+## Currently learning
 
-## 🔭 What I have worked on
-- 🌊 **North East Atlantic Seafloor Litter Analysis**: This project aims to provide an analysis of the distribution and composition of marine litter in the North East Atlantic region. It identifies trends and suggests strategies to mitigate marine pollution. <br>
-  🔗 [**View Project**](https://github.com/MahaSci/NEA-Seafloor-Litter-Analysis) | 
-  🔗 [**View Dashboard**](https://public.tableau.com/app/profile/maha.hussain/viz/NorthEastAtlanticSeafloorLitterDashboard/Dashboard115)
-  
-<br>
+* Cybersecurity and digital forensics
+* Python, Linux, and command-line tools
+* Security concepts through TryHackMe and university labs
 
-- 🚗 **UK Road Accident Analysis (Group Project)**: This project aims to examine key factors influencing vehicle accidents, including light conditions, location, and vehicle involvement. The goal is to identify patterns and contributing factors to inform potential safety improvements. <br>
-  🔗 [**View Project**](https://github.com/MahaSci/UK-Road-Accident-Analysis)
+## Projects I've worked on
 
-  <br>
+### North East Atlantic Seafloor Litter Analysis
 
-- 🛒 **Online Retail Sales Analysis (Group Project)**: Exploring revenue patterns in online retail sales by analysing product-wise revenue distribution, regional differences, customer segmentation, and seasonal sales trends.  
-  🔗 [**View Project**](https://github.com/bvhadra/Online_Retail_Sales_Analysis)
+An individual data analysis project looking at the distribution and composition of marine litter across the North East Atlantic. I explored trends in the data and used statistical tests to investigate patterns.
 
-<br>
+[View Project](https://github.com/MahaSci/NEA-Seafloor-Litter-Analysis)
 
-- ❤️ **Heart Disease Risk Analysis**: Analysing health data to understand the relationship between various risk factors (diabetes, cholesterol, BMI) and heart disease.  
-  🔗 [**View Project**](https://github.com/MahaSci/heart-disease-data-hackathon-1)
+[View Tableau Dashboard](https://public.tableau.com/app/profile/maha.hussain/viz/NorthEastAtlanticSeafloorLitterDashboard/Dashboard115)
 
-## 🌱 Learning & Growth
-- Always expanding my skills, I'm interested in recommender systems & NLP.
-- Exploring how gen AI can be used as a tool.
+### UK Road Accident Analysis
 
-## 👯 I’m looking to collaborate on
-- Data analytics projects, particularly those with environmental or social impact.
-- Open-source contributions, particularly in AI and machine learning.
+A group project analysing UK road accident data, looking at factors such as light conditions, location and vehicle involvement. We also used machine learning models to predict accident severity.
 
-## 📫 How to reach me
-- Email: mahahussain874@gmail.com
-- LinkedIn: [mahahussain2003](https://www.linkedin.com/in/mahahussain2003/)
+[View Project](https://github.com/MahaSci/UK-Road-Accident-Analysis)
+
+### Online Retail Sales Analysis
+
+A group project exploring online retail sales, including product revenue, regional differences, customer segments and seasonal trends.
+
+[View Project](https://github.com/bvhadra/Online_Retail_Sales_Analysis)
+
+### Heart Disease Risk Analysis
+
+A data analysis project exploring the relationship between factors such as diabetes, cholesterol and BMI and heart disease.
+
+[View Project](https://github.com/MahaSci/heart-disease-data-hackathon-1)
+
+## What I'd like to work on
+
+* Data analysis projects
+* Cybersecurity and digital forensics projects
+* Projects with interesting datasets or real-world problems
+* Open-source projects where I can learn from other people
+
+## Get in touch
+
+* LinkedIn: [mahahussain2003](https://www.linkedin.com/in/mahahussain2003/)
